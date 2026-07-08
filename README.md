@@ -1,4 +1,4 @@
-# Interview-Help 🚀
+# Career_Navigator_Ai 🚀
 
 An AI-powered interview preparation platform that helps users practice technical and HR interviews through personalized interview sessions, AI-generated questions, and performance analysis.
 
