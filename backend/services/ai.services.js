@@ -108,7 +108,7 @@ No markdown.
 )
     const content = response.data.choices[0].message.content
 
-console.log(content)
+
 
 const cleaned = content
   .replace(/```json/g, "")
@@ -201,7 +201,6 @@ async function generateResumePdf({ resume, selfDescription, jobDescription }) {
 
     const rawContent = response.data.choices[0].message.content
 
-console.log("RAW AI CONTENT:", rawContent)
 
 const cleanedContent = rawContent
     .replace(/```json/g, "")
